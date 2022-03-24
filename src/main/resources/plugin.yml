@@ -1,8 +1,4 @@
-name: SamopisPPUIE
+name: S0two.getexp
 version: '${project.version}'
-main: bedwars.samopisppuie.SamopisPPUIE
-api-version: 1.16
-authors: [ S0Two ]
-description: Позволяет настроить получение уровней опыта при сборе предметов игроком.
-commands:
-  ppuie: { }
+main: ru.s0two.getexp.S0two.getexp
+authors: [ s0two ]
